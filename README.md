@@ -423,7 +423,7 @@ sudo ./main
 cd python 
 cd examples
 sudo python3 main.py
-#or
+#veya
 sudo python3 test.py
 ```
 
